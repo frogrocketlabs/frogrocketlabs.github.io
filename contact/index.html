@@ -124,7 +124,29 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<div style="width: 100%; margin-bottom: 2rem; text-align: center;">
 <p>We’d love to hear from you — say <a href="mailto:hello@frogrocket.ai">hello@frogrocket.ai</a>.</p>
+</div>
+<div style="text-align: center;">
+<p><img src="../assets/coding.png" class="frogrocket-logo" style="width: 100%; height: auto; max-width: 400px; border-radius: 8px; opacity: 0.8;"></p>
+</div>
+<div class="cell">
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const frogLogo = document.querySelector('.frogrocket-logo');
+
+    frogLogo.addEventListener('mouseenter', function() {
+        this.src = '../assets/hello.png';
+    });
+
+    frogLogo.addEventListener('mouseleave', function() {
+        this.src = '../assets/coding.png';
+    });
+});
+</script>
+</div>
+<!-- Hidden reference to ensure hello.png gets copied to _site -->
+<p><img src="../assets/hello.png" style="display: none;"></p>
 
 
 
@@ -201,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/frogrocket\.ai");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
