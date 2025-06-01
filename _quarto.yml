@@ -11,14 +11,14 @@ website:
       text: "FrogRocket Labs"
       href: index.qmd
     left:
+      - text: "What"
+        href: index.qmd
       - text: "Team"
         href: team/index.qmd
-      - text: "What"
-        href: what/index.qmd
       - text: "Research"
         href: research/index.qmd
-      - text: "Newsletter"
-        href: newsletter/index.qmd
+      - text: "Contact"
+        href: contact/index.qmd
   page-footer:
     left: "© 2025, FrogRocket Labs, Inc."
     right:
