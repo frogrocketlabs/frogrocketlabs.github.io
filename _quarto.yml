@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - robots.txt
+
+website:
+  title: "FrogRocket Labs"
+  navbar:
+    brand:
+      text: "FrogRocket Labs"
+      href: index.qmd
+    left:
+      - text: "Team"
+        href: team/index.qmd
+      - text: "What"
+        href: what/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Newsletter"
+        href: newsletter/index.qmd
+  page-footer:
+    left: "Copyright 2025, FrogRocket Labs, Inc."
+    right:
+      - icon: github
+        href: https://github.com/frogrocketlabs
+      - icon: envelope-paper-heart-fill
+        href: mailto:hello@frogrocket.ai
+
+format:
+  html:
+    theme:
+      - darkly
+      - custom.scss
+    toc: true
