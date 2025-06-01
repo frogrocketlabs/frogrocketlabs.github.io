@@ -1,5 +1,5 @@
 <div style="width: 100%; margin-bottom: 2rem; text-align: center;">
-  Welcome to <span style="color: rgba(82, 158, 114, 1);">FrogRocket Labs</span>—reach out to <a href="mailto:hello@frogrocket.ai">hello@frogrocket.ai</a> or subscribe to our <a href="newsletter/index.qmd">newsletter</a>.
+  Welcome to <span style="color: rgba(82, 158, 114, 1);">FrogRocket Labs</span>.
 </div>
 
 <div style="text-align: center;">
