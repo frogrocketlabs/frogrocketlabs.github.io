@@ -20,7 +20,7 @@ website:
       - text: "Newsletter"
         href: newsletter/index.qmd
   page-footer:
-    left: "Copyright 2025, FrogRocket Labs, Inc."
+    left: "© 2025, FrogRocket Labs, Inc."
     right:
       - icon: github
         href: https://github.com/frogrocketlabs
