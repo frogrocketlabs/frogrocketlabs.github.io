@@ -49,7 +49,7 @@ Our first set of modules enable reliable perception in the real world by:
 
 # Why Us?
 
-Our [team](../team/index.qmd) combines deep expertise from both academia and industry.
+Our [team](team/index.qmd) combines deep expertise from both academia and industry.
 
 At companies like **Twitter**, **Stripe** and **Google [x]**, we've scaled production information systems to support billions of users, pioneered machine learning infrastructure at scale, and built developer platforms used by some of the world's most sophisticated engineering organizations.
 
