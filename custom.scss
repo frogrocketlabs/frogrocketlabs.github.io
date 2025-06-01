@@ -1,8 +1,11 @@
 /*-- scss:defaults --*/
 
+/* Set background to black */
+$body-bg: #191919 !default;
+
 /* Override navbar background to match page background in darkly theme */
-$navbar-dark-bg: #212529 !default;
-$navbar-bg: #212529 !default;
+$navbar-dark-bg: #191919 !default;
+$navbar-bg: #191919 !default;
 
 /* Custom link color */
 $link-color: rgba(82, 158, 114, 1) !default;
@@ -65,8 +68,8 @@ a:not(.navbar-brand):not(.nav-link) {
 
 /* Additional navbar styling to ensure consistent appearance */
 .navbar {
-  background-color: var(--bs-body-bg) !important;
-  border-bottom: 1px solid var(--bs-border-color);
+  background-color: #191919 !important;
+  border-bottom: 1px solid #191919;
 }
 
 /* Navbar brand - always green */
