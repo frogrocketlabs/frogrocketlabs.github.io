@@ -3,26 +3,5 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="../assets/coding.png" class="frogrocket-logo" style="width: 100%; height: auto; max-width: 400px; border-radius: 8px; opacity: 0.8;">
+  <img src="../assets/frogrocket-logo.png" class="frogrocket-logo" style="width: 100%; height: auto; max-width: 400px; border-radius: 8px; opacity: 0.8;">
 </div>
-
-::: {.cell}
-```{=html}
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const frogLogo = document.querySelector('.frogrocket-logo');
-
-    frogLogo.addEventListener('mouseenter', function() {
-        this.src = '../assets/hello.png';
-    });
-
-    frogLogo.addEventListener('mouseleave', function() {
-        this.src = '../assets/coding.png';
-    });
-});
-</script>
-```
-:::
-
-<!-- Hidden reference to ensure hello.png gets copied to _site -->
-<img src="../assets/hello.png" style="display: none;">
