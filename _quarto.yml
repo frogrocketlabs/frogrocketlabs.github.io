@@ -19,6 +19,7 @@ website:
         href: research/index.qmd
       - text: "Contact"
         href: contact/index.qmd
+  google-analytics: "G-M255TYLNBN"
   page-footer:
     left: "© 2025, FrogRocket Labs, Inc."
     right:
