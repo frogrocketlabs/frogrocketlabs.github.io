@@ -26,19 +26,6 @@
 
 ---
 
-**<span class="team-name">Mathieu Huot</span>** <span class="team-title"> | CSO</span>
-
-<div style="display: flex; gap: 40px;">
-  <div style="flex: 3;">
-  Mathieu's [research](https://scholar.google.com/citations?user=F1TREY4AAAAJ&hl=fr) focuses on differentiable programming and probabilistic inference. At [RelationalAI](https://relational.ai) he engineered production systems with correctness guarantees. As a research scientist at [MIT](https://web.mit.edu/) he focused on probabilistic and differentiable programming languages. PhD CS, Oxford.
-  </div>
-  <div style="flex: 1;">
-  <img src="../assets/mathieu.webp" alt="Mathieu Huot" style="width: 100%; height: auto; max-width: 120px;">
-  </div>
-</div>
-
-
----
 
 
 **<span class="team-name">Sam Ritchie</span>** <span class="team-title"> | CTO</span>
@@ -97,19 +84,6 @@
 
 ---
 
-**<span class="team-name">Tiffany Luong</span>** <span class="team-title"> | Research Scientist</span>
-
-<div style="display: flex; gap: 40px;">
-  <div style="flex: 3;">
-  Tiffany works on simulation, synthetic data, and interactive systems. At [Inria](https://www.inria.fr/en/inria-centre-rennes-university) and [ETH Zurich](https://ethz.ch/en.html), she conducted [research](https://scholar.google.com/citations?user=0e7VJacAAAAJ) on physiological computing and user experience in VR. As a research scientist at [MIT](https://web.mit.edu/), she led the development of a physical [VR platform](https://quest.mit.edu/research/missions/intelligence-observatory) for psychophysics experiments and worked on synthetic data generation for computer vision models.  PhD in CS, Inria Rennes/IRT b<>com; Postdoc, ETH Zurich.
-  </div>
-  <div style="flex: 1;">
-  <img src="../assets/tiffany.webp" alt="Tiffany Luong" style="width: 100%; height: auto; max-width: 120px;">
-  </div>
-</div>
-
-
----
 
 # Scientific Collaborators
 
